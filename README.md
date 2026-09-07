@@ -5,5 +5,7 @@ This project contains the exercises currently implemented in GraphPad Prism, as 
 
 ## Software download
 The new software options can be downloaded from the following links:
+
 [JASP](https://jasp-stats.org/download/)
+
 [Jamovi](https://www.jamovi.org/index.html) - Jamovi can also be used on the cloud in a browser, if you are unable to download software. 
